@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 
 ```sh
-cd <YOUR_REACT_DIRECTORY_STORES_COMPONENTS>
+cd /YOUR_REACT_DIRECTORY/WHERE_YOU_STORE_COMPONENTS
+
 svn co https://github.com/ben9543/countdown-widget-react/trunk/src/components/CountDown
 ```
 
